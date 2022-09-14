@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Petoo</string>
+    <string name="petoo_app">Petoo App</string>
+    <string name="hi_dear">Hi Dear</string>
+    <string name="search_and_order">Search and Order</string>
+    <string name="order_now">Order Now</string>
+    <string name="upto_50_off">UPTO 50% OFF</string>
+    <string name="avator">avator</string>
+    <string name="banner">banner</string>
+    <string name="delicious_food_on_your_mobile">Delicious food on your mobile</string>
+    <string name="one_place_for_foodies">One Place For Foodies</string>
+    <string name="get_started">Order Now</string>
+    <string name="image1">image1</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="garlic_bread">Garlic Bread</string>
+    <string name="chowmein">Chowmein</string>
+    <string name="coffee">Coffee</string>
+    <string name="fries">Fries</string>
+    <string name="mojito">Mojito</string>
+    <string name="tea">Tea</string>
+    <string name="todo">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="total_price">Total Price:</string>
+    <string name="_10_000">10,000</string>
+    <string name="place_order">Place Order</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="place_orderr">Place order</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">username</string>
+    <string name="abc_gmail_com">abc_gmail_com</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="forgot_password">forgot password</string>
+</resources>
